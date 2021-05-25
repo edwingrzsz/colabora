@@ -1,0 +1,8 @@
+Este es un proyecto para prueba de nuevos comandos de git
+se trata de una página hecha en bootstrap
+
+Colaboradores
+
+1.- Edwing Ruiz Sánchez 
+2.- Cesar Jafet Lima Ipatzi
+3.- José Ramón Navarro González
